@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "which of this is a code injecting method used for attacking the database of a system / website.",
+            "answers": [
+                "HTML injection",
+                "SQL Injection",
+                "Malicious code injection",
+                "XML Injection"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "This attack can be deployed by infusing a malicious code in a website’s comment section. What is “this” attack referred to here?",
+            "answers": [
+                "XSS",
+                "CSRF",
+                "SSRF",
+                "LFI"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "When there is an excessive amount of data flow, which the system cannot handle, _____ attack takes place.",
+            "answers": [
+                "SQL Injection",
+                "XSS",
+                "Dos (Denial of Service",
+                "Buffer Overflow attack"
+            ],
+            "correct": 4
+        },
+        {
+            "question": "Which of this is an example of physical hacking?",
+            "answers": [
+                "Remote Unauthorised access",
+                "Inserting malware loaded USB to a system",
+                "SQL Injection on SQL vulnerable site",
+                "DDoS (Distributed Denial of Service) attack"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Which of this is an example of social hacking?",
+            "answers": [
+                "Inserting a malicious link in a user’s browser",
+                "Inserting a malicious link in a user’s email",
+                "Inserting a malicious link in a user’s social media",
+                "Inserting a malicious link in a user’s search engine"
+            ],
+            "correct": 3
+        }
+    ]
+}
