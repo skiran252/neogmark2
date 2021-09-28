@@ -3,9 +3,12 @@
 uses node cli to interact with command line
 ---
 ## Technologies used
+- NodeJS
+
+## packages used
 - chalk
 - readline-sync
-
+- 
 # the site is devloped to be previewed on desktop. need to make it response
 
 ## Contact
