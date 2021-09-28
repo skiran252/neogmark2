@@ -1,4 +1,4 @@
-# How well do you know me
+# CLI Based Quiz on Cyber Security
 
 uses node cli to interact with command line
 ---
