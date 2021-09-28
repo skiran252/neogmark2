@@ -8,7 +8,7 @@ uses node cli to interact with command line
 ## packages used
 - chalk
 - readline-sync
-- 
+
 # the site is devloped to be previewed on desktop. need to make it response
 
 ## Contact
