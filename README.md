@@ -19,7 +19,7 @@ uses node cli to interact with command line
 - [LinkedIn](https://linkedin.com/in/saikiran-gonugunta "saikiran's LinkedIn")
 
 ---
-### Live project link: [Click Here](https://replit.com/@saikiran26/neogmark1?embed=true "Cyber Security Quiz")
+### Live project link: [Click Here](https://replit.com/@saikiran26/neogmark2?embed=true "Cyber Security Quiz")
 
 ---
 
